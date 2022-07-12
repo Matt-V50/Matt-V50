@@ -1,4 +1,4 @@
-<img src="https://github.com/FavorMylikes/FavorMylkes/main/svg.svg"/>
+<img src="https://github.com/FavorMylikes/FavorMylikes/blob/main/svg.svg"/>
 
 
 <p><em>A master student at <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>, majoring in Artificial ntelligence. 😊</br>
