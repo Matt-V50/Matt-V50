@@ -1,7 +1,7 @@
 <img src="https://github.com/FavorMylikes/FavorMylikes/blob/main/svg.svg"/>
 
 
-<p><em>A master student at <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>, majoring in Artificial ntelligence. 😊</br>
+<p><em>A PhD Student at <a href="https://uwaterloo.ca">University of Waterloo</a> 😊</br>
 </em></p>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=FavorMylikes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
